@@ -16,8 +16,7 @@ update, and delete recipes, as well as sort them in a variety of ways using what
 
 ### Features
 
-* Create recipes, and provide data about them
-  ** ex. When it was last eaten, calories, macronutrients, steps, pictures
+* Create recipes, and provide data about them (ex. When it was last eaten, calories, macronutrients, steps, pictures)
 * Create Collections and group recipes by things they have in common
 * Search for a recipe with a custom set of criteria
 
